@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <ol>
-          <li>Create TWO new components: UserInput and UserOutput</li>
+          <li>Create TWO hinew components: UserInput and UserOutput</li>
           <li>UserInput should hold an input element, UserOutput two paragraphs</li>
           <li>Output multiple UserOutput components in the App component (any paragraph texts of your choice)</li>
           <li>Pass a username (of your choice) to UserOutput via props and display it there</li>
